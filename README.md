@@ -21,6 +21,11 @@
 
 # heroku -> deploy
 ### visit your new website
+https://hms-indore.herokuapp.com/users/
+
+https://hms-indore.herokuapp.com/users/1
+
+https://hms-indore.herokuapp.com/
 ---------------
 
 # Add database Capability
